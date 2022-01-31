@@ -1,2 +1,2 @@
 # JSC270_Lecture4
-Palmer penguins notebook
+Some basic analysis with the palmer penguins notebook
